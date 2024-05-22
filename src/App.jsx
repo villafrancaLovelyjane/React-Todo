@@ -133,7 +133,7 @@ const App = (props) => {
             return (
               <div>
                 <ListGroup>
-                  <ListGroup.Item action variant="primary">
+                  <ListGroup.Item action variant="success">
                     {toDos.name}
                   </ListGroup.Item>
                 </ListGroup>
